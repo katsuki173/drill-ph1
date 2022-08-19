@@ -17,6 +17,6 @@
     const f = 'こんばんは'
     console.log(f);
   }
-}
 
-a()
+  a()
+}
